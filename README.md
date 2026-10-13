@@ -4,7 +4,8 @@ A 2D tactical missile trajectory simulation developed in **C++** using the **Ray
 
 <img width="990" height="826" alt="Ekran görüntüsü 2026-10-13 154516" src="https://github.com/user-attachments/assets/d004da58-56c4-4a5c-8cb4-507f4d4db09b" />
 <img width="987" height="827" alt="Ekran görüntüsü 2026-10-13 154540" src="https://github.com/user-attachments/assets/7e6a90d0-28dc-413f-8210-6bd8aedd84b9" />
-<img width="985" height="827" alt="Ekran görüntüsü 2026-10-13 154601" src="https://github.com/user-attachments/assets/a39b6dc2-c283-4777-aebe-4f3a30eeba03" />
+<img width="987" height="825" alt="Ekran görüntüsü 2026-10-13 155715" src="https://github.com/user-attachments/assets/325b13e8-0d56-4119-a599-4003efd17d0b" />
+
 
 ## Features
 - **Flight Physics Engine:** 2D Euler numerical integration calculating acceleration, velocity, and position state vectors.
